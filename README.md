@@ -13,7 +13,7 @@ This file will show you how to get acces to the tool and how to use it
 7. The graphical user interface will open up
    
 ## Using the Tool
-1. Press the "Info" Button which will
+1. Press the "Info" Button
    - Instruction on how to make the roof area boundaries will be shown
 2. Press "Upload image and select roof area" Button
    1. upload the roof image
