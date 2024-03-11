@@ -22,4 +22,5 @@ This file will show you how to get acces to the tool and how to use it
    3. Press enter when the area is alligned
    4. The desired area will be shown and straightened
 3. Press "Count rooftiles"
-   - The amount of Rooftiles will be shown
+   - The amount of rooftiles will be shown
+4. To reset the process press the "Reset" button or upload another image via the "Upload image and select roof area" button
