@@ -10,7 +10,7 @@ This file will show you how to get acces to the tool and how to use it
 4. Open the file
 5. Select the directory in which the files have been copied
 6. Press "run file" (F5)
-7. A Window will open up
+7. The graphical user interface will open up
    
 ## Using the Tool
 1. Press the "Info" Button which will
