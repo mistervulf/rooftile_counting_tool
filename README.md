@@ -1,8 +1,8 @@
-## Roof Tile Detection 
+# Roof Tile Detection 
 This file will show you how to get acces to the tool and how to use it
 
 
-# Installation and opening
+## Installation and opening
 1. Install Python 3.9 on you Computer
 2. Download the files in the GitHub or copy the repository
 3. Get an environment which allows you to open the GUI_Fourier.py file
@@ -12,7 +12,7 @@ This file will show you how to get acces to the tool and how to use it
 6. Press "run file" (F5)
 7. A Window will open up
    
-# Using the Tool
+## Using the Tool
 1. Press the "Info" Button which will
    - Instruction on how to make the roof area boundaries will be shown
 2. Press "Upload image and select roof area" Button
